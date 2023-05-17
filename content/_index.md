@@ -1,6 +1,6 @@
 ---
 title: Chemicalengineering wiki
-enableToc: false
+enableToc: true
 ---
 
 Ciao mamma guarda i meme

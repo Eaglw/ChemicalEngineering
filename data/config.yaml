@@ -1,6 +1,6 @@
-name: Jacky Zhao
+name: Daniele
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -10,7 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 search:
@@ -18,12 +18,11 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Chemical Engineering wiki WIP!
 page_title:
-  "🪴 Quartz 3.3"
+  "🧪Chemical Engineering Wiki WIP"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Youtube
+    link: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/Eaglw
